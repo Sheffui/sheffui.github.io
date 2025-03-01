@@ -1,4 +1,4 @@
-#Riichi Mahjong "Guide"
+# Riichi Mahjong "Guide"
 
 ## Basic Hand Concepts
 
