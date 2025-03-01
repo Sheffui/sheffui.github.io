@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="1583.808"
+   width="2000"
    height="170.112"
-   viewBox="0 0 419.04917 45.008801"
+   viewBox="0 0 529.16663 45.008801"
    version="1.1"
    id="svg1"
    inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
@@ -27,9 +27,9 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="0.424"
-     inkscape:cx="810.14151"
-     inkscape:cy="-116.74528"
+     inkscape:zoom="2.3985062"
+     inkscape:cx="40.233375"
+     inkscape:cy="150.71881"
      inkscape:window-width="1920"
      inkscape:window-height="1052"
      inkscape:window-x="0"
@@ -59,6 +59,13 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0;paint-order:markers stroke fill;fill-opacity:1"
+       id="rect1"
+       width="529.16669"
+       height="44.97916"
+       x="0"
+       y="-1.5068053e-06" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;font-family:Riichi-Mahjong;-inkscape-font-specification:'Riichi-Mahjong, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0;paint-order:markers stroke fill"
