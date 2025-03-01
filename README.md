@@ -21,56 +21,56 @@ Here's a breakdown of common yaku, categorized by difficulty:
 
 * **Riichi (立直):** Declaring ready hand. Requires no open melds. Always worth 1 fan.
     * **Difficulty:** ★
-    * ![Riichi](images/hand/riichi.png)
+    * ![Riichi](/assets/hands/riichi.png)
 * **Tsumo (門前清自摸和):** Winning by self-draw. Requires no open melds. Always worth 1 fan.
     * **Difficulty:** ★
-    * ![Tsumo](images/hand/tsumo.png)
+    * ![Tsumo](/assets/hands/tsumo.png)
 * **Yakuhai (役牌):** Value tiles. Includes:
     * **Honor Tiles (Seat/Round Winds, Dragons):** 1 fan for each set of your seat wind, the round wind, or any dragon tiles (white, green, red).
         * **Difficulty:** ★
-        * ![Yakuhai](images/hand/yakuhai.png)
+        * ![Yakuhai](/assets/hands/yakuhai.png)
 * **Pinfu (平和):** A hand with four sequences (chii) and a pair that is not a value tile. The winning tile must be a two-sided wait. Requires no open melds.
     * **Difficulty:** ★★
-    * ![Pinfu](images/hand/pinfu.png)
+    * ![Pinfu](/assets/hands/pinfu.png)
 * **Ippatsu (一発):** Winning within one turn of declaring riichi.
     * **Difficulty:** ★
-    * ![Ippatsu](images/hand/ippatsu.png)
+    * ![Ippatsu](/assets/hands/ippatsu.png)
 
 ### Medium Difficulty Yaku (2-3 Fan)
 
 * **Tanyao (断么九):** A hand with no terminal (1s and 9s) or honor tiles.
     * **Difficulty:** ★★
-    * ![Tanyao](images/hand/tanyao.png)
+    * ![Tanyao](/assets/hands/tanyao.png)
 * **Toitoi (対々和):** Four triplets (pon or kan).
     * **Difficulty:** ★★
-    * ![Toitoi](images/hand/toitoi.png)
+    * ![Toitoi](/assets/hands/toitoi.png)
 * **San Shoku Dou Jun (三色同順):** Three identical sequences in all three suits.
     * **Difficulty:** ★★★
-    * ![San Shoku Dou Jun](images/hand/sanshokudoujun.png)
+    * ![San Shoku Dou Jun](/assets/hands/sanshokudoujun.png)
 * **San Shoku Dou Kou (三色同刻):** Three identical triplets in all three suits.
     * **Difficulty:** ★★★
-    * ![San Shoku Dou Kou](images/hand/sanshokudoukou.png)
+    * ![San Shoku Dou Kou](/assets/hands/sanshokudoukou.png)
 * **Chiitoitsu (七対子):** Seven pairs. Requires no open melds.
     * **Difficulty:** ★★
-    * ![Chiitoitsu](images/hand/chiitoitsu.png)
+    * ![Chiitoitsu](/assets/hands/chiitoitsu.png)
 * **Chanta (混全帯么九):** All sets and the pair contain at least one terminal or honor tile.
     * **Difficulty:** ★★★
-    * ![Chanta](images/hand/chanta.png)
+    * ![Chanta](/assets/hands/chanta.png)
 * **Honitsu (混一色):** A hand consisting of one suit plus honor tiles.
     * **Difficulty:** ★★★★
-    * ![Honitsu](images/hand/honitsu.png)
+    * ![Honitsu](/assets/hands/honitsu.png)
 
 ### High Difficulty Yaku (6+ Fan)
 
 * **Chinitsu (清一色):** A hand consisting of only one suit.
     * **Difficulty:** ★★★★★
-    * ![Chinitsu](images/hand/chinitsu.png)
+    * ![Chinitsu](/assets/hands/chinitsu.png)
 * **Ryanpeikou (二盃口):** Two identical sequences of two. Requires no open melds.
     * **Difficulty:** ★★★★★
-    * ![Ryanpeikou](images/hand/ryanpeikou.png)
+    * ![Ryanpeikou](/assets/hands/ryanpeikou.png)
 * **Honroutou (混老頭):** A hand consisting of only terminal and honor tiles.
     * **Difficulty:** ★★★★★
-    * ![Honroutou](images/hand/honroutou.png)
+    * ![Honroutou](/assets/hands/honroutou.png)
 
 ### Yaku with High Fan Values (Yakuman)
 
@@ -78,19 +78,19 @@ Yakuman are rare and high-scoring hands.
 
 * **Kokushi Musou (国士無双):** Thirteen Orphans. One of each terminal and honor tile plus one duplicate.
     * **Difficulty:** ★★★★★
-    * ![Kokushi Musou](images/hand/kokushimusou.png)
+    * ![Kokushi Musou](/assets/hands/kokushimusou.png)
 * **Suu Ankou (四暗刻):** Four concealed triplets.
     * **Difficulty:** ★★★★★
-    * ![Suu Ankou](images/hand/suuankou.png)
+    * ![Suu Ankou](/assets/hands/suuankou.png)
 * **Daisangen (大三元):** Three dragon triplets.
     * **Difficulty:** ★★★★★
-    * ![Daisangen](images/hand/daisangen.png)
+    * ![Daisangen](/assets/hands/daisangen.png)
 * **Suushi Shou (四喜和):** Four wind triplets or quads.
     * **Difficulty:** ★★★★★
-    * ![Suushi Shou](images/hand/suushishou.png)
+    * ![Suushi Shou](/assets/hands/suushishou.png)
 * **Chuuren Poutou (九連宝燈):** Nine Gates. A hand with 1-1-1-2-3-4-5-6-7-8-9-9-9 of one suit.
     * **Difficulty:** ★★★★★
-    * ![Chuuren Poutou](images/hand/chuurenpoutou.png)
+    * ![Chuuren Poutou](/assets/hands/chuurenpoutou.png)
 
 ## Factors Affecting Difficulty
 
