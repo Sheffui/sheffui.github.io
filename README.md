@@ -29,7 +29,7 @@ Here's a breakdown of common yaku, categorized by difficulty:
     * **Honor Tiles (Seat/Round Winds, Dragons):** 1 fan for each set of your seat wind, the round wind, or any dragon tiles (white, green, red).
         * **Difficulty:** ★
         * ![Dragon Yakuhai](assets/hands/yakuhai_dragon.png)
-	* ![Wind Yakuhai](assets/hands/yakuhai_wind.png)
+        * ![Wind Yakuhai](assets/hands/yakuhai_wind.png)
 * **Pinfu (平和):** A hand with four sequences (chii) and a pair that is not a value tile. The winning tile must be a two-sided wait. Requires no open melds.
     * **Difficulty:** ★★
     * ![Pinfu](assets/hands/pinfu.png)
